@@ -1,0 +1,17 @@
+{
+  "images" : [
+    {
+      "idiom" : "tv",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "tv",
+      "filename" : "MAMELogoTM.back.png",
+      "scale" : "1x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
